@@ -1,0 +1,8 @@
+gb:Geir Bjarvin:IT1
+mj:Marius Johannessen:IT1
+sm:Segaw Mengiste:IT2cs:Dan:Olsen:IT1
+bs:Dan:Olsrod:IT2
+tg:Dan:Olsrod:IT1
+aa:Ane:Olsensen:IT2
+css:Gunnar:Olsrod:IT3
+tgt:Arne:Olsrod:IT3
